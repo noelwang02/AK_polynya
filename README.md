@@ -14,3 +14,6 @@ source /opt/anaconda3/bin/activate
 
 Resources:<br>
 https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
+If kernel status is disconnected, remove .py files from the folder
